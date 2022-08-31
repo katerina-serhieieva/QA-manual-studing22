@@ -1,2 +1,2 @@
-# QA-manual-studing22
+# QA-manual-study22
 QA MANUAL
